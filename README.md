@@ -1,7 +1,9 @@
 ### Hi there :octocat:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniplus11&layout=compact)
+![](https://raw.githubusercontent.com/daniplus11/github_stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/daniplus11/github_stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
 <!--
 **daniplus11/daniplus11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
