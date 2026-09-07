@@ -1,5 +1,7 @@
-### Hi there :octocat:
 
+
+📫 [danielapersia.dp@gmail.com](mailto:danielapersia.dp@gmail.com)·
+[LinkedIn](https://www.linkedin.com/in/daniela-persia/)
 
 ![](https://raw.githubusercontent.com/daniplus11/github_stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/daniplus11/github_stats/master/generated/overview.svg#gh-dark-mode-only)
