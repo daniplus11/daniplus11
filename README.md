@@ -8,7 +8,23 @@ Trento, Italy
 [![Email](https://img.shields.io/badge/danielapersia.dp@gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:danielapersia.dp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/daniela--persia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-persia/)
 
-<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,java,vue,django,docker,linux,bash,git,visualstudio,react,go&perline=10" alt="C++, C, Python, TypeScript, JavaScript, Java, Vue.js, Django, Docker, Linux, Bash, Git, Visual Studio, React, Go" />
+<p align="center">
+  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"></a>
+  <a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"></a>
+  <a href="https://www.javascript.com" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"></a>
+  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"></a>
+  <a href="https://vuejs.org" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js"></a>
+  <a href="https://www.djangoproject.com" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" alt="Django"></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"></a>
+  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"></a>
+  <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio"></a>
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"></a>
+  <a href="https://go.dev" title="Go"><img src="https://skillicons.dev/icons?i=go" width="48" alt="Go"></a>
+</p>
 
 </div>
 
