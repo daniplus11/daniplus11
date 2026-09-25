@@ -30,7 +30,11 @@ Trento, Italy
 
 ---
 <div align="center">
-  | 🇮🇹 Italian native · 🇬🇧 English C1 · 🇩🇪 German B2 |
+
+![Italian native](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italian_native-475569?style=flat-square)
+![English C1](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English_C1-475569?style=flat-square)
+![German B2](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA_German_B2-475569?style=flat-square)
+
 </div>
 <br></br>
 
